@@ -1,0 +1,13 @@
+[1mdiff --git a/sample.cpp b/sample.cpp[m
+[1mindex 1e1a17e..92cd9a2 100644[m
+[1m--- a/sample.cpp[m
+[1m+++ b/sample.cpp[m
+[36m@@ -4,7 +4,7 @@[m [mint sum(int , int);[m
+ [m
+ int main()[m
+ {[m
+[31m-    int a=5; int b=3;[m
+[32m+[m[32m    int a=1; int b=9;[m[41m[m
+     std::cout << sum(a,b) << std::endl;[m
+     return 0;[m
+ }[m
